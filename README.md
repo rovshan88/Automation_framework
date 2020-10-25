@@ -1,1 +1,1 @@
-# technosoft-auto-framework
+# auto-framework
